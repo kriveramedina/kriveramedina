@@ -20,7 +20,7 @@ This page is a collection of my technical writing samples and other projects usi
 ## :raising_hand_woman:	 About Me
 I'm a writer based in Vancouver with over two years of experience in content writing, journalism and editing. I have written extensively on the world of entertainment, music, lifestyle and culture. I've also created eBooks in InDesign and designed logos in Illustrator.
 
-While I've loved the work I've done as a content writer, I've found myself drawn to the world of technical writing, as I've always had a natural fascination for translating concepts into easy-to-understand language. I've also always been up-to-date with technological advancements, and enjoy taking the time to learn about new technologies in my spare time.
+My experience as a content writer is reflected in my newfound love of technical writing - as I've always had a natural fascination for translating concepts into easy-to-understand language. I've also always been up-to-date with technological advancements, and enjoy taking the time to learn about new technologies in my spare time, including new AI technologies such as ChatGPT, Google's Gemini, etc.
 
 At the moment, I'm learning about API documentation, and look forward to tackling this area of technical writing professionally.
 
